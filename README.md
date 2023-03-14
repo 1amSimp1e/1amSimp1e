@@ -1,7 +1,7 @@
 <!-- START -->
 
 <!-- Profile -->
-<p align="left"><strong><samp></samp></strong></p>
+<p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
       <b>
@@ -12,11 +12,9 @@
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=12&pause=1000&color=7A95C9&center=true&width=435&lines=Make+it+simple+but+I'm+a+complicant+person">
       <br>
-      <b>
-      </b>
     </samp>
   </p>
-<p align="right"><strong><samp></samp></strong></p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
 
