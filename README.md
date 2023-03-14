@@ -12,7 +12,9 @@
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=16&pause=1000&color=7A95C9&center=true&width=435&lines=Make+it+simple+but+I'm+a+complicant+person.">
       <br>
-    </samp>
+      <b>
+         ~ Nguyen Tue Nhan ~
+      </b>    </samp>
   </p>
 <p align="right"><strong><samp></samp></strong></p>
 <br>
@@ -23,7 +25,6 @@
 </p>
 
 ### Languages & Tools 🧰
-
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
