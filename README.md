@@ -7,7 +7,7 @@
       <b>
         Hello There
       <br>
-        I'm Nhan, a High School Student, I like Penguins and Apples, but I don't like Windows.
+        I'm Nhan, High School Student, I like Penguins and Apples, but I don't like Windows.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=12&pause=1000&color=7A95C9&center=true&width=435&lines=Make+it+simple+but+I'm+a+complicant+person">
