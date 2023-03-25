@@ -1,7 +1,7 @@
 <!-- START -->
 
 <!-- Profile -->
-<p align="left"><strong><samp></samp></strong></p>
+<p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
       <b>
@@ -16,7 +16,7 @@
          ~ Nguyen Tue Nhan ~
       </b>    </samp>
   </p>
-<p align="right"><strong><samp></samp></strong></p>
+<p align="right"><strong><samp>」</samp></strong></p>
 <br>
 
 <!-- contribution snake -->
