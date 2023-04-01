@@ -27,16 +27,7 @@
 ### Languages & Tools 🧰
 
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;padding-down:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,linux,figma,git,github,neovim)]()
 
 ### 
 
@@ -49,7 +40,8 @@
   <div align="center">
   <table>
   <tr>
-  <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=1amSimp1e&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
+    
+  <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://streak-stats.demolab.com?user=1amSimp1e&theme=github-dark-blue&hide_border=true&border_radius=20"></a></td>
   </tr>
   </table>
   </div>
@@ -58,8 +50,8 @@
   <div align="center">
   <table>
   <tr>
-  <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=1amSimp1e&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=blueberry"/></a></td>
-  <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1amsimp1e&layout=compact&line_height=21&hide_border=true&theme=blueberry"/></a></td>
+  <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=1amSimp1e&count_private=true&show_icons=true&border_radius=20&include_all_commits=true&line_height=21&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff"/></a></td>
+  <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1amsimp1e&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff"/></a></td>
   </tr>
   </table>
   </div>
